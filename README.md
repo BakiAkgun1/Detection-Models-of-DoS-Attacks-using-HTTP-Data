@@ -49,7 +49,7 @@ The goal of this project is to develop effective methods for detecting DoS attac
 ![image](https://github.com/user-attachments/assets/11223811-dfbe-4d64-bc2e-0392bfe11f0f)
 ![image](https://github.com/user-attachments/assets/8615f465-5abf-45d5-b740-cc6c6d90ec52)
 ![image](https://github.com/user-attachments/assets/87032958-3b01-4d3e-b7f5-636cf5d45916)
-
+![image](https://github.com/user-attachments/assets/bc500dba-4e8d-4dc9-8fcf-c653c1b4167a)
 
 
 ## Machine Learning Models
@@ -61,8 +61,7 @@ Implemented traditional classifiers:
 4. Logistic Regression
 
 ### Evaluation Metrics
-- **Accuracy**, **Precision**, **Recall**, **F1-Score**, and **AUC**.
-- Visualizations: Confusion matrix and ROC curve.
+![image](https://github.com/user-attachments/assets/5b0b14f6-5075-4329-ba23-ecb1c994de96)
 
 ## Deep Learning Models
 
@@ -71,9 +70,12 @@ Explored RNN-based architectures:
 2. LSTM
 3. GRU
 
+![image](https://github.com/user-attachments/assets/46107acd-7530-4e89-b495-9f64170998f5)
+
 ### Performance Metrics
-- Evaluated on the same metrics as above.
-- Plotted loss and accuracy curves for all models.
+![image](https://github.com/user-attachments/assets/9994f1c8-85b5-40a5-93f1-750764ca78e5)
+![image](https://github.com/user-attachments/assets/dbfd03dd-5a37-4b7e-9452-7db485ed250e)
+
 
 ## Ensemble Neural Network Architecture
 
@@ -84,6 +86,8 @@ Developed a hybrid CNN+LSTM+BiLSTM+GRU model:
   - GRU layer
   - Dense output layer
 - **Results**: Achieved the highest accuracy, precision, and recall among all models.
+![image](https://github.com/user-attachments/assets/8ce89f4a-6832-41f1-ad69-77034a1796af)
+![image](https://github.com/user-attachments/assets/f403ee43-9aa3-4194-a005-b27d680e1176)
 
 ## Results and Insights
 
