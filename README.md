@@ -26,7 +26,8 @@ The goal of this project is to develop effective methods for detecting DoS attac
 - **Class Distribution**: 
   - Normal: 1,700 instances
   - Anomalous (DoS): 50,766 instances
-    ![image](https://github.com/user-attachments/assets/687c1127-4908-4603-8540-ea929194a9b7)
+    
+![image](https://github.com/user-attachments/assets/687c1127-4908-4603-8540-ea929194a9b7)
 
 - **Null Values**: 
   - Handled missing data in `Flow_Byts/s` column (3 instances).
