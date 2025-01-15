@@ -1,5 +1,0 @@
-Model,Accuracy,Precision,Recall,F1-Score,AUC
-Random Forest,1.0,1.0,1.0,1.0,1.0
-XGBoost,1.0,1.0,1.0,1.0,1.0
-LightGBM,1.0,1.0,1.0,1.0,1.0
-Logistic Regression,0.9999047074518773,1.0,0.9999015360378102,0.9999507655949978,1.0
