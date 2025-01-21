@@ -44,7 +44,10 @@ The goal of this project is to develop effective methods for detecting DoS attac
 
 ### Feature Selection
 - **Correlation-based**: Retained highly correlated features (`Dst_Port`, `Src_Port`, etc.).
+![image](https://github.com/user-attachments/assets/2ff06a53-4ab6-412d-999a-ec671b018ba7)
+
 - **Mutual Information**: Selected features with high dependency on the target.
+![image](https://github.com/user-attachments/assets/d7aba5e4-5563-47d9-8aad-77e40804970c)
 
 ### Visualizations
 ![image](https://github.com/user-attachments/assets/11223811-dfbe-4d64-bc2e-0392bfe11f0f)
